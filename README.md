@@ -162,7 +162,7 @@ Figure 2: Database version string displayed in the product listing after the pay
 
 ## Lab Solved:
 
-![Lab Solved Congratulations]()
+![Lab Solved Congratulations](https://github.com/venu-maxx/Portswigger-Lab-SQLI-3/blob/0d972614ea23e4de9e0090023960ddbbe0ab6297/Lab%20Solved%20Congratulations.png)
 
 Figure 3: PortSwigger Academy confirmation of lab completion.
 
