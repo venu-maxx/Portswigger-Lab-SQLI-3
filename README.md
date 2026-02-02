@@ -148,7 +148,7 @@ Content-Length: 4810
 
 ## Proof of Error (Injection Test):
 
-![SQL Injection Error Triggered]()
+![SQL Injection Error Triggered](https://github.com/venu-maxx/Portswigger-Lab-SQLI-3/blob/004c19a86b2859bbd9cf5cb1d6da945ba1a3d56c/SQL%20Injection%20Error%20Triggered.png)
 
 Figure 1: Database error (ORA-01756) after injecting single quote ('), confirming lack of input sanitization and Oracle database.
 
