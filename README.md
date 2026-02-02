@@ -155,7 +155,7 @@ Figure 1: Database error (ORA-01756) after injecting single quote ('), confirmin
 
 ## Proof of Successful Exploitation:
 
-![Proof of Successful Querying]()
+![Proof of Successful Querying](https://github.com/venu-maxx/Portswigger-Lab-SQLI-3/blob/6934c35ca74548497a8be9605cd28f073036ce93/Proof%20of%20Successful%20Querying.png)
 
 Figure 2: Database version string displayed in the product listing after the payload ' UNION SELECT BANNER, NULL FROM v$version--, confirming successful query.
 
